@@ -30,5 +30,5 @@ Socket.IO: Providing real-time bidirectional event-based communication, Socket.I
 
 Get Started:
 
-Ready to experience the future of remote communication? Join us today and elevate your video conferencing experience with our cutting-edge platform!
+Ready to experience the future of remote communication? Join us today and elevate your video conferencing experience with our cutting-edge platform..!
 
